@@ -97,6 +97,7 @@ namespace GameWPF
                 lastTextBlockClicked.Visibility = Visibility.Visible;
                 findingMatch = false;
             }
+
         }
 
         private void TimeTextBlock_MouseDown(object sender, MouseButtonEventArgs e)
